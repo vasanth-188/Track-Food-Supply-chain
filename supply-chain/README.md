@@ -74,7 +74,7 @@ The project is build on three core modules: Traceability System, Trading Mechani
 
 **Clone the repository**
 ```bash
-git clone https://github.com/vasanth-188/supply-chain
+git clone https://github.com/vasanth-188/Track-Food-Supplychain
 ```
 
 ### Setting Up Truffle Project
