@@ -4,9 +4,6 @@
 ![Javascript](https://img.shields.io/badge/Javascript-ffff00?&style=for-the-badge&logo=react&logoColor=black) 
 ![React](https://img.shields.io/badge/React-0095D5?&style=for-the-badge&logo=react&logoColor=white) 
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/lakshya-20/supply-chain?style=for-the-badge)
-[![GitHub last commit](https://img.shields.io/github/last-commit/lakshya-20/supply-chain?style=for-the-badge)](https://github.com/lakshya-20/supply-chain/commits)
-
 
 ## Project description
 
